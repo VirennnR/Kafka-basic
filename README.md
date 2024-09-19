@@ -1,5 +1,5 @@
 # Kafka
-Tried to implement a basic Kafka architecture.
+Tried to implement the Kafka architecture.
 With the Queue as well as pub/sub models.
 
 ## Prerequisite
